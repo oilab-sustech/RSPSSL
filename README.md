@@ -1,4 +1,4 @@
-# Raman-preprocess
+# Raman spectral preprocessing scheme - RSPSSL
 
 ## Website
 Website: <http://8.130.110.188:8501/>
