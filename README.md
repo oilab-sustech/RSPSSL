@@ -1,7 +1,7 @@
-# Raman spectral preprocessing scheme - RSPSSL
+# Raman-preprocess
 
 ## Website
-Website: <http://8.130.110.188:8501/>
+Website: [http://8.130.110.188:6688/](http://150.158.140.194:6688/)
 
 We have opened a user website that makes Raman spectral preprocessing easy for anyone.
 ![Alt text](./pictures/web.png)
@@ -9,7 +9,7 @@ We have opened a user website that makes Raman spectral preprocessing easy for a
 ## Abstract
 Opening soon
 
-## Instruction
+## Instrction
 Opening soon
 
 ## Cite
