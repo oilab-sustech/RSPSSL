@@ -13,7 +13,7 @@ Raman spectroscopy has tremendous potential for material analysis with its molec
 Schematics of this work: the proposed self-supervised learning-based Raman spectral preprocessing (RSPSSL) scheme and the experimental design for its comprehensive performance evaluation.
 ![Alt text](./pictures/P1.png)
 
-## Cite
+## Citation Information
 Hu, J., Chen, G.J., Xue, C. et al. RSPSSL: A novel high-fidelity Raman spectral preprocessing scheme to enhance biomedical applications and chemical resolution visualization. Light Sci Appl 13, 52 (2024).
 https://doi.org/10.1038/s41377-024-01394-5
 
