@@ -14,4 +14,6 @@ Schematics of this work: the proposed self-supervised learning-based Raman spect
 ![Alt text](./pictures/P1.png)
 
 ## Cite
-Opening soon
+Hu, J., Chen, G.J., Xue, C. et al. RSPSSL: A novel high-fidelity Raman spectral preprocessing scheme to enhance biomedical applications and chemical resolution visualization. Light Sci Appl 13, 52 (2024).
+https://doi.org/10.1038/s41377-024-01394-5
+
