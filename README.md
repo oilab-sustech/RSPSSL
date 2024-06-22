@@ -1,5 +1,10 @@
 # Manual - Raman Spectral Preprocessing Model
 
+<span style="color: red;">If you find this research helpful, we encourage you to cite our paper. The citation format is as follows</span>：
+
+Hu, J., Chen, G.J., Xue, C. et al. RSPSSL: A novel high-fidelity Raman spectral preprocessing scheme to enhance biomedical applications and chemical resolution visualization. *Light Sci Appl* 13, 52 (2024). [https://doi.org/10.1038/s41377-024-01394-5](https://doi.org/10.1038/s41377-024-01394-5)
+
+
 ## Website (**Not updated**)
 Website: [http://150.158.140.194:6688/](http://150.158.140.194:6688/)
 
@@ -18,11 +23,6 @@ Website: [http://150.158.140.194:6688/](http://150.158.140.194:6688/)
 3、Adapting to different instruments, different samples, and different spectral resolution
 4、Custom port protocol to achieve custom functionalities
 For details, see [Application Demonstration](#application-demonstration)
-
-
-<span style="color: red;">If you find this research helpful, we encourage you to cite our paper. The citation format is as follows</span>：
-Hu, J., Chen, G.J., Xue, C. et al. RSPSSL: A novel high-fidelity Raman spectral preprocessing scheme to enhance biomedical applications and chemical resolution visualization. *Light Sci Appl* 13, 52 (2024). [https://doi.org/10.1038/s41377-024-01394-5](https://doi.org/10.1038/s41377-024-01394-5)
-
 
 ## Contents
 - [Instruction Manual - Raman Spectral Preprocessing Model](#instruction-manual---raman-spectral-preprocessing-model)
