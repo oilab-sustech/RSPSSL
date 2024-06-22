@@ -65,13 +65,16 @@ For details, see [Application Demonstration](#application-demonstration)
 
 ## Web Usage Instructions
 **1、Login**
-![image](./pictures/Login.png)
+
+![image](./pictures/Login.jpg)
 &nbsp;&nbsp;&nbsp;&nbsp;  Click <span style="color: red;">"Use Now"</span> to enter the main interface or log in with your password. The difference between visitor mode and user mode is that user mode allows for larger-scale data processing and image handling. At this stage, user mode is not yet fully updated, so please stay tuned.
 **2、Format Confirmation (Optional)**
+
 ![image](./pictures/Format.jpg)
 &nbsp;&nbsp;&nbsp;&nbsp;  After uploading the data, confirm whether the data format is correct. At this stage, some custom format functions are built-in. First, click <span style="color: red;">Browse files</span> to upload txt or csv files. By default, lines are read without skipping, and the supported delimiters are "\t", "," and ";". If the format is correct, the txt table will be displayed. Next, if the data format is incorrect or there are display issues, click the options box and select <span style="color: red;">"Custom"</span> to display the custom format options, where you can set custom delimiters and skip lines. Finally, click <span style="color: red;">"Plot Data"</span> to display the spectral image and confirm whether the data format is correct.
 
 **3、Data Processing**
+
 &nbsp;&nbsp;&nbsp;&nbsp;  Click the <span style="color: red;">"Preprocessing"</span> on the sidebar to enter the data processing interface. First, click <span style="color: red;">"Browse files"</span> to upload txt or csv files. You can select multiple files, and there is a one-click clear button at the top. The reading parameters use the default values or the parameters obtained in the previous step. Then, in the <span style="color: red;">Input Raman Shift range</span>, enter the spectral range to be processed, <span style="color: red;">ensuring the spectral range does not exceed the actual spectral range</span>. Next, choose whether to perform <span style="color: red;">Normalization</span>, currently supporting only min-max normalization. The effects are shown in the figure below, and you can export the trimmed data at this stage. You can also zoom in and out, double-click to display the spectrum, and perform other operations on the graph.
 ![image](./pictures/Pre_1.jpg)
 
