@@ -11,7 +11,7 @@ Website: [http://150.158.140.194:6688/](http://150.158.140.194:6688/)
 
 &nbsp;&nbsp;&nbsp;&nbsp; We encourage users to continue providing valuable feedback during the usage process. Additionally, for common batch processing operations such as normalization, please feel free to contact us, and we will do our best to meet your needs. Finally, as the webpage and algorithm may still contain some bugs, we appreciate your understanding and patience.
 
-## 应用对象
+## Application object
 1、Removing spectral baseline and noise in single spectra
 2、Reducing Raman spectroscopy imaging time, enhancing imaging efficiency by approximately tenfold
 3、Adapting to different instruments, different samples, and different spectral resolution
@@ -27,7 +27,7 @@ Hu, J., Chen, G.J., Xue, C. et al. RSPSSL: A novel high-fidelity Raman spectral 
 - [Instruction Manual - Raman Spectral Preprocessing Model](#instruction-manual---raman-spectral-preprocessing-model)
   - [Manual Authors](#manual-authors)
   - [Preface](#preface)
-  - [应用对象](#应用对象)
+  - [Application object](#application-object)
   - [Contents](#contents)
   - [Introduction](#introduction)
   - [Application Demonstration](#application-demonstration)
