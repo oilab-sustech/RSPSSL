@@ -12,6 +12,8 @@ Website: [http://150.158.140.194:6688/](http://150.158.140.194:6688/)
 
 **Version 2.0**: 2024-06-21  We have resolved several bugs, completed the user manual, ensured compatibility with various resolution Raman spectrometers, and optimized the processing performance.
 
+**Version 2.1**: 2024-06-23  We have added a watchdog process to prevent program crashes and optimized the user experience.
+
 ## Preface
 &nbsp;&nbsp;&nbsp;&nbsp; The preprocessing of Raman spectroscopy data is highly complex, particularly in terms of baseline correction and noise reduction. For instance, when using Origin software, manual parameter adjustments are required, which are often ineffective and cannot achieve batch automation. Currently, the model has been published in related articles, and the first version of the webpage has received significant user feedback. Taking all feedback into consideration, we have further optimized the webpage to be more suitable for different instruments and samples. In this version, we have primarily considered various formats of spectral files and incorporated processing strategies that adapt to spectral resolution.
 
@@ -68,6 +70,7 @@ For details, see [Application Demonstration](#application-demonstration)
 
 ![image](./pictures/Login.jpg)
 &nbsp;&nbsp;&nbsp;&nbsp;  Click <span style="color: red;">"Use Now"</span> to enter the main interface or log in with your password. The difference between visitor mode and user mode is that user mode allows for larger-scale data processing and image handling. At this stage, user mode is not yet fully updated, so please stay tuned.
+
 **2、Format Confirmation (Optional)**
 
 ![image](./pictures/Format.jpg)
