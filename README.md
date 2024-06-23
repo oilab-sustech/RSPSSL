@@ -5,7 +5,7 @@
 Hu, J., Chen, G.J., Xue, C. et al. RSPSSL: A novel high-fidelity Raman spectral preprocessing scheme to enhance biomedical applications and chemical resolution visualization. *Light Sci Appl* 13, 52 (2024). [https://doi.org/10.1038/s41377-024-01394-5](https://doi.org/10.1038/s41377-024-01394-5)
 
 
-## Website (**Not updated, Open Soon**)
+## Website
 Website: [http://150.158.140.194:6688/](http://150.158.140.194:6688/)
 
 **Version 1.0**: 2023-12-04  Preliminary Website Functionality Completed
